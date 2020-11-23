@@ -8,9 +8,9 @@ download all your 360.io images, because the service is shutting down on 2021-02
 
 # settings
 ### user_urls
-this is a *list* of user urls from 360.io
-**a single entry, example:** ```user_urls = ['http://360.io/user/3ca6-11/vikas-reddy/']```
-**multiple entries, example:** ```user_urls = ['http://360.io/user/3ca6-11/vikas-reddy/','http://360.io/user/4db7-22/example-username/']```
+this is a *list* of user urls from 360.io    
+**a single entry, example:** ```user_urls = ['http://360.io/user/3ca6-11/vikas-reddy/']```    
+**multiple entries, example:** ```user_urls = ['http://360.io/user/3ca6-11/vikas-reddy/','http://360.io/user/4db7-22/example-username/']```    
 
 ---
 
@@ -24,8 +24,8 @@ this is a *list* of user urls from 360.io
 ---
 
 ### download_images
-this can be set to True or False
-**True:** the script downloads the images
-**False:** the script just displays all the image urls
+this can be set to True or False     
+**True:** the script downloads the images     
+**False:** the script just displays all the image urls     
 
 
